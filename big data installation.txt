@@ -24,3 +24,6 @@ Go on to your terminal
 2. docker pull cloudera/quickstart:latest - To pull docker image from repository
 3. docker run --hostname=quickstart.cloudera --privileged=true -t -i -v ~/Documents/dockersrc:/Src --publish-all=true -p 8888 cloudera/quickstart /usr/bin/docker-quickstart - To start cloudera docker container
 
+
+
+https://medium.com/@rakeshgopidi/installing-cloudera-quickstart-vm-through-docker-hub-on-mac-m1-879f4a3d0fd4
