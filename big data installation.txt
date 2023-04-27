@@ -27,3 +27,5 @@ Go on to your terminal
 
 
 https://medium.com/@rakeshgopidi/installing-cloudera-quickstart-vm-through-docker-hub-on-mac-m1-879f4a3d0fd4
+
+ok
